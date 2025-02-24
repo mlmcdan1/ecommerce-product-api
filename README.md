@@ -11,7 +11,7 @@ The API allows users to:
 
 This project simulates a real-world e-commerce backend that businesses might use to manage their inventory.
 
-# [Link to walkthrough Video](https://youtu.be/OCM8d3uCyYM)
+# [Link to walkthrough Video]([https://youtu.be/OCM8d3uCyYM](https://youtu.be/z5O2AewFk94))
 
 ![Challenge13](Challenge13-ORM-backendEcommerce.png)
 
