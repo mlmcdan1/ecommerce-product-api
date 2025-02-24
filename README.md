@@ -13,7 +13,7 @@ This project simulates a real-world e-commerce backend that businesses might use
 
 # [Link to walkthrough Video]([https://youtu.be/OCM8d3uCyYM](https://youtu.be/z5O2AewFk94))
 
-![Challenge13](Challenge13-ORM-backendEcommerce.png)
+![Challenge13](mysql-Cover.jpg)
 
 ---
 
