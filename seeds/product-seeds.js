@@ -1,3 +1,4 @@
+// @ts-ignore
 const { Product } = require('../models/Index');
 
 const productData = [

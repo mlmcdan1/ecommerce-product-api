@@ -1,0 +1,23 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Mac system files
+.DS_Store
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Optional cache directories
+.cache/
+dist/
+
+# Jest testing coverage
+coverage/
+
+# MySQL database dumps
+*.sql
